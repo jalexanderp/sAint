@@ -211,7 +211,7 @@ public class sAINT {
                 + WHITE + " RESPONSIBILITY OF THE END-USER. THE DEVELOPERS ASSUME NO         \n"
                 + WHITE + " LIABILITY AND ARE NOT RESPONSIBLE FOR ANY MISUSE OR DAMAGE       \n"
                 + WHITE + " CAUSED BY THIS PROGRAM.                                          \n"
-                + WHITE + "                                                                  \n"
+                + WHITE + "               Jonny Pabon                                        \n"
                 + WHITE + " Close this window if you wish to exit. Otherwise,                \n"
                 + WHITE + " press [ENTER] key to continue..."
         );
